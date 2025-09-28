@@ -304,3 +304,7 @@ Refactored code to optimize resource usage - ID: yqw8orl0
 ## Update 2025-09-28 23:47:46
 Improved performance to improve stability - ID: zejyh7sw
 
+
+## Update 2025-09-28 23:47:55
+Added configuration for better user experience - ID: c83jzs8i
+
